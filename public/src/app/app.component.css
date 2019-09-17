@@ -1,0 +1,33 @@
+.container {
+    margin-top: 5%;
+}
+
+.newTask {
+    margin-bottom: 5%;
+}
+
+body {
+    font-family: 'Chilanka', cursive;
+}
+
+.card {
+    margin-bottom: 2%;
+    margin-left: 1%;
+    display: inline-block;
+}
+
+input {
+    margin-right: 2%;
+}
+
+body {
+    background-color: #23374d;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+.rs {
+    margin-right: 2%;
+}
